@@ -1,0 +1,35 @@
+title: JAVA
+content: Java is a high-level, object-oriented programming language known for its platform independence,
+ robustness, and security. It features automatic memory management,multithreading, and a rich API, making  
+ it suitable for various applications, from web and mobile apps to enterprise systems.
+
+title: C#
+content: C# is a modern, object-oriented programming language developed by Microsoft. It runs on the.
+ NET framework and is known for its simplicity, efficiency, and versatility. C# is used for developing
+ a wide range of applications, including web, mobile, and desktop apps, as well as games.
+
+title: ORACLE
+content: Oracle is a multinational technology company known for its advanced database management systems.
+ Oracle Database, its flagship product, is renowned for its high performance, scalability, and reliability,
+ widely used in enterprise environments for managing and analyzing large volumes of data.
+
+title: ACCOUNTING
+content: Accounting is the systematic process of recording, summarizing, and reporting financial transactions of a business.
+ It involves maintaining financial records, preparing financial statements, and ensuring compliance with regulations,providing 
+ insights into a company's financial health for decision-making and strategic planning.
+
+title: MANAGEMENT
+content: Management is the process of planning, organizing, leading, and controlling resources, including people, 
+finances, and information,to achieve organizational goals efficiently and effectively. It involves decision-making,
+ strategy development, and coordination of activities to ensure the success and growth of an organization.
+
+title: DIGITAL LOGIC DESIGN
+content: Digital logic design is the foundation of digital circuits, involving the use of binary systems to create logic gates, 
+combinational and sequential circuits. It is essential in designing computer hardware, microprocessors, and digital systems, 
+enabling the implementation of complex computational tasks through logical operations and binary decision-making.
+
+
+
+
+
+
